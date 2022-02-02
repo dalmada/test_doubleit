@@ -1,0 +1,40 @@
+.mat-grid-list {
+    margin-top: 30px;
+
+
+    .products {
+        border-radius: 20px;
+                
+    }
+
+    .mat-card {
+        width: 300px;
+        height: 600px;
+
+
+        h1 {
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+        p {
+            color: #505050;
+            font-size: 0.7rem;
+        }
+    }
+
+    .mat-card-image {
+        margin-top: 50px;
+        max-width: 80%;
+    }
+
+}
+
+.example-card {
+    max-width: 400px;
+  }
+  
+
+
+
+
+
